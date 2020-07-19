@@ -6,8 +6,8 @@ __pycache__
 db.sqlite3
 media
 
-# collectstatic files
-staticfiles/
+# collectstatic files, needed for deployment
+# staticfiles/
 # Backup files # 
 *.bak 
 
